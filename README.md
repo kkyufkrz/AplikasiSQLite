@@ -16,8 +16,8 @@ Aplikasi sederhana berbasis Android yang menggunakan **SQLite Database** untuk m
 ## 📂 Struktur Proyek
 ```bash
 AplikasiSQLite/
-├── app/                # Source code utama (tidak ditampilkan di repo publik ini)
-├── gradle/             # Wrapper Gradle
+├── app/               
+├── gradle/           
 ├── .gitignore
 ├── build.gradle
 ├── gradle.properties
